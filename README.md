@@ -34,7 +34,7 @@ Para ilustrar o funcionamento do Decodificador de Texto ONE, aqui estão alguns 
 
 ## Visualização do Projeto
 
-O projeto atualmente está hospedado neste link <a href="https://j0aoarthur.github.io/Decodificador-de-Texto-ONE/">https://j0aoarthur.github.io/Decodificador-de-Texto-ONE/</a>
+O projeto atualmente está hospedado neste link <a href="https://descodificador-de-texto-one.vercel.app/">https://descodificador-de-texto-one.vercel.app/</a>
 
 ## Considerações Finais
 
