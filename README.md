@@ -29,11 +29,11 @@ Para ilustrar o funcionamento do Decodificador de Texto ONE, aqui estão alguns 
 Criptografar: A palavra "gato" é convertida para "gaitober".
 Descriptografar: A palavra "gaitober" é revertida para "gato".
 Visualização do Projeto
-O projeto atualmente está hospedado neste link https://j0aoarthur.github.io/Decodificador-de-Texto-ONE/
+O projeto atualmente está hospedado neste link:
 
 Considerações Finais
 O Decodificador de Texto é uma aplicação divertida que demonstra como as palavras podem ser criptografadas e descriptografadas com base em regras simples. Ele oferece uma introdução à criptografia básica e pode ser estendido para recursos adicionais.
 
 Apesar de ser uma aplicação bem simples. Esse projeto foi essencial para a prática dos conhecimentos aprendidos durante o curso, como CSS, JavaScript, HTMl e principalmente Flexbox, um modelo de layout de CSS tão essencial para a construção de um site moderno.
 
-Badge recebida pela conclusão do projeto****
+#Badge recebida pela conclusão do projeto****
